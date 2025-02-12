@@ -1,0 +1,13 @@
+For frontend folder(cd frontend/)
+    1. npm create vite@latest - Used to create react project with Vite.
+    2. npm install - Used to install necessary packages/node modules.
+    3. npm run dev - Used to run project on localhost.
+    4. npm run build - Used to build the project for production.
+
+For backend folder(cd backend/)
+    1. npm init - Used to create package.json (used as npm init -y).
+    2. npm install express - Used to install express.js.
+    3. npm install mongoose --save - Used to install mongoose for MongoDB.
+    4. node index.js - Used to run the project on node.js.
+    5. npm install -g/--save-dev nodemon - Used to install nodemon packages
+    6. 
